@@ -1,5 +1,5 @@
 # Test Case Design Repository
-[![GitHub license](https://img.shields.io/github/license/JubairRahman/test_case_design.svg?style=for-the-badge&color=FAF8D4&logo=apache&labelColor=9A031E)](https://github.com/JubairRahman/test_case_design/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/JubairRahman/test_case_design.svg?style=for-the-badge&logo=github&color=1D3461&labelColor=85C7DE)](https://github.com/JubairRahman/test_case_design/stargazers) [![GitHub issues](https://img.shields.io/github/issues/JubairRahman/test_case_design.svg?style=for-the-badge&color=green&logo=)](https://github.com/JubairRahman/test_case_design/issues)
+[![GitHub license](https://img.shields.io/github/license/JubairRahman/test_case_design.svg?style=for-the-badge&color=FAF8D4&logo=apache&labelColor=9A031E)](https://github.com/JubairRahman/test_case_design/blob/master/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/JubairRahman/test_case_design.svg?style=for-the-badge&logo=github&color=1D3461&labelColor=85C7DE)](https://github.com/JubairRahman/test_case_design/stargazers) [![GitHub issues](https://img.shields.io/github/issues/JubairRahman/test_case_design.svg?style=for-the-badge&color=red&logo=e&labelColor=ADA7C9)](https://github.com/JubairRahman/test_case_design/issues)
 
 
 
